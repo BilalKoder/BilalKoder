@@ -15,7 +15,7 @@
 - </> Get Web Development Resources for free in [Notion Page](https://web-dev-resources.notion.site/Web-Development-Resources-be1207bcc32e434481c1ce6e90756964)
 
 
-- 🔥 I writes blogs at [blogs.abhidadhaniya.com](https://blogs.abhidadhaniya.com/)
+- 🔥 I writes blogs at [https://www.linkedin.com/in/syed-bilal-ali-2b4a2b207/](https://www.linkedin.com/in/syed-bilal-ali-2b4a2b207/)
 
 -  🌈 Download My Resume : [Resume](https://rxresu.me/abhidadhaniya23/abhi-resume) 
 
