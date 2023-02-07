@@ -15,7 +15,7 @@
 - </> Get Web Development Resources for free in [Notion Page](https://web-dev-resources.notion.site/Web-Development-Resources-be1207bcc32e434481c1ce6e90756964)
 
 
-- 🔥 I work at Upwork [https://www.upwork.com/freelancers/~01bb9d998807bdf561](https://www.upwork.com/freelancers/~01bb9d998807bdf561)
+- 🔥 I work at Upwork [https://www.upwork.com/freelancers/~01bb9d998807bdf561](Syed Bilal Ali)
 
 -  🌈 Download My Resume : [Resume](https://rxresu.me/abhidadhaniya23/abhi-resume) 
 
