@@ -17,7 +17,7 @@
 
 - 🔥 I work at Upwork [https://www.upwork.com/freelancers/~01bb9d998807bdf561](Syed Bilal Ali)
 
--  🌈 Download My Resume : [Resume](https://rxresu.me/abhidadhaniya23/abhi-resume) 
+-  🌈 Download My Resume : [Resume](https://file.io/fSgPbly4g2b7) 
 
 - 💬 Ask me about **javascript**
 
