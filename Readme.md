@@ -2,7 +2,7 @@
   <img height="400" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"  />
 </div>
 
-<h1 align="left">Hi 👋, I'm Syed Bilal ali</h1>
+<h1 align="left">Hi 👋, I'm Syed Bilal ali</h1> ![](https://komarev.com/ghpvc/?username=BilalKoder)
 <h3 align="left">Full Stack Developer | Building Products | Learning, Building, Selling, Growing.</h3>
 <h3 align="left"> I love building the real world products.</h3>
 
